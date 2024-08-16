@@ -1,2 +1,4 @@
 node_modules
-.eslintrc.json
+notes-api-web-server.pem
+.env
+.prod.env
